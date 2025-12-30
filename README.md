@@ -11,7 +11,7 @@ This project was done for general practice and play. The Churn dataset was readi
 
 ## Resources 
 To run this project the you will need:
-1. The chrurn(in) dataset.
+1. The chrurn_prediction(in) dataset.
 2. Python
 3. Anaconda Navigator to launch and run Jupyter Notebook.
 
