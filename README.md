@@ -18,9 +18,9 @@ To run this project the you will need:
 ## Installation and Experiment Run
 1. If you have not already, sign up for an Anaconda account [here](https://www.anaconda.com/download).
    1. Click Get Started and enter in your details.
-   2. After logging in, download the version for your operating system (Windows, MacOs, Linux). There are plent of YouTube videos to help you on this step.
+   2. After logging in, download the version for your operating system (Windows, MacOs, Linux). There are plenty of YouTube videos to help you on this step.
    3. Open the app and launch Jupyter Notebook.
-2.  Download the Tyler the Creator dataset in the Dataset subfolder and than download the Jupyter notebook in the Jupyter Notebook subfolder.
+2.  Download the chrurn_prediction(in) dataset in the Dataset subfolder and than download the Jupyter notebook in the Jupyter Notebook subfolder.
 3.  Place both files in the same folder within your computer.
 4.  In Jupyter Notebook, look for the new folder you created, click it, and open the Jupyter Notebook file.
-5.  Run the program step by step and read the Project description (in Research paper subfolder) to confirm results.
+5.  Run the program step by step and read the project description to confirm results.
